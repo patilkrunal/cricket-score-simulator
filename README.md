@@ -25,12 +25,10 @@
 		       -File Handling
 		       -Function Overloading
 		      •	ALGORITHM:
-		       -Step 1: Start
-		       -Step 2: take the input (difficulty of cricket match)
-		       -Step 1: take the second input (no of overs of match)
-		       -Step 1:
-		       -Step 1:
-		       -Step 1:
+		      	-Step 1: Start
+			-Step 2: Take the input (difficulty of cricket match)
+			-Step 3: Take the second input (no of overs of match)
+			-Step 4: Display the scorecard accordingly
 		      •	FUTURE SCOPE
 			In future we can apply Graphical user interface to our algorithm and 
 			then we can create a user-friendly cricket game which plays automatically 
